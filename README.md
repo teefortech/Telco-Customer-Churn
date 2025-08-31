@@ -25,3 +25,16 @@ The dataset was downloaded from Kaggle and represents a sample telecom provider�
 
 + Provide business recommendations to reduce customer loss
 
+
+## 📒 How to View This Notebook
+
+GitHub has limited support for rendering Jupyter notebooks.  
+If you see messages like:
+
+> "In a Jupyter environment, please rerun this cell to show the HTML representation or trust the notebook."  
+> "On GitHub, the HTML representation is unable to render, please try loading this page with nbviewer.org."
+
+don’t worry — the notebook will display correctly on **nbviewer**.
+
+👉 **Click here to view the full notebook:**  
+[View on nbviewer](https://nbviewer.org/github.com/teefortech/Telco-Customer-Churn/blob/main/Customer_Churn_Prediction.ipynb)
